@@ -1,0 +1,7 @@
+com\gmail\deamon999\demo\entity\DataModel.class
+com\gmail\deamon999\demo\service\DataService.class
+com\gmail\deamon999\demo\service\DataService$1.class
+com\gmail\deamon999\demo\controller\MainController.class
+com\gmail\deamon999\demo\WebSecurityConfig.class
+com\gmail\deamon999\demo\SpaTestApplication.class
+com\gmail\deamon999\demo\repository\DataModelRepo.class
